@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Error 404: Bio not found (I was too busy debugging). 🛠️🐛</h1>
+<h1 align="center">Rule # 1: If it works, dont touch it...</h1>
 
 ###
 
